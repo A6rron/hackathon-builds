@@ -30,3 +30,12 @@ A healthcare platform concept supporting palliative care initiatives through dig
 
 **Live** → https://palliatech.a6rron.in/  
 **Code** → https://github.com/A6rron/palliatech-l.git
+
+---
+
+### ReportDesk
+An anonymous reporting platform that lets students report safety issues in seconds, while counselors and authorities track and prevent incidents using real-time insights.
+
+[![ReportDesk Preview](previews/reportdesk.png)](https://reportdesk.vercel.app/)
+
+**Live** → https://reportdesk.vercel.app/
