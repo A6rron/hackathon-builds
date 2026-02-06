@@ -1,9 +1,8 @@
 # Hackathon Builds
 
-Archive of hackathon projects.
+**Archive of hackathon projects.**
 
 ---
-
 ### QueueApp
 A web app that lets you reserve a billing queue spot through someone already inside a mall, so you can shop or relax without waiting.
 
