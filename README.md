@@ -1,2 +1,32 @@
-# hackathon-builds
-Hackathon builds and live demos.
+# Hackathon Builds
+
+Archive of hackathon builds with live demos.
+
+---
+
+### QueueApp
+A web app that lets you reserve a billing queue spot through someone already inside a mall, so you can shop or relax without waiting.
+
+[![QueueApp Preview](previews/queueapp.png)](https://queue-app-eta-red.vercel.app/)
+
+**Live** → https://queue-app-eta-red.vercel.app/  
+**Code** → https://github.com/A6rron/QueueApp  
+
+---
+
+### FLS — Fund & Ledger System
+A transparent system for tracking college event funds: who collected money, who spent it, and where it went.
+
+[![FLS Preview](previews/fls.png)](https://fls-three.vercel.app/)
+
+**Live** → https://fls-three.vercel.app/  
+
+---
+
+### PalliaTech
+A healthcare platform concept supporting palliative care initiatives through digital tools and technology.
+
+[![PalliaTech Preview](previews/palliatech.png)](https://palliatech.a6rron.in/)
+
+**Live** → https://palliatech.a6rron.in/  
+**Code** → https://github.com/A6rron/palliatech-l.git
