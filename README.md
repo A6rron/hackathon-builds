@@ -1,6 +1,6 @@
 # Hackathon Builds
 
-Archive of hackathon builds with live demos.
+Archive of hackathon projects.
 
 ---
 
